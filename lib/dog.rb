@@ -12,3 +12,5 @@
         @breed
       end
     end
+    
+    mutt = Dog.new("Mutt")
